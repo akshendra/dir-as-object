@@ -1,8 +1,14 @@
 {
   "name": "loader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Akshendra Pratap Singh"
+  },
+  "repository": {
+    "url": "https://github.com/akshendra/loader"
+  },
   "dependencies": {
     "debug": "^2.6.3",
     "glob-promise": "^3.1.0",
