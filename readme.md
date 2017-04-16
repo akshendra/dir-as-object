@@ -1,0 +1,1 @@
+> For times when you don't want to write index.js just to load modules
