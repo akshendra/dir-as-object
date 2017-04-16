@@ -1,5 +1,5 @@
 {
-  "name": "loader",
+  "name": "dir-as-object",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,7 +7,7 @@
     "name": "Akshendra Pratap Singh"
   },
   "repository": {
-    "url": "https://github.com/akshendra/loader"
+    "url": "https://github.com/akshendra/dir-as-object"
   },
   "dependencies": {
     "debug": "^2.6.3",
